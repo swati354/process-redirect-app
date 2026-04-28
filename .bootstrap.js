@@ -77,11 +77,7 @@ function updateWranglerJsonc() {
 }
 
 function runSetupCommands() {
-    const commands = [
-    "bun add @tanstack/react-query@^5.62.0",
-    "bun add lucide-react@^0.468.0",
-    "bun add date-fns@^4.1.0"
-];
+    const commands = [];
     
     if (commands.length === 0) {
         console.log('⊘ No setup commands to run');
