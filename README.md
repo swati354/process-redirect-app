@@ -2,7 +2,7 @@
 
 A modern, responsive web application for viewing and managing UiPath Orchestrator processes. Built with React, TypeScript, and the UiPath SDK, this dashboard provides a clean interface to monitor and interact with your automation processes.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/swati354/process-redirect-app)
 
 ## Features
 
@@ -114,7 +114,7 @@ The build output will be in the `dist/` directory, ready for deployment.
 
 This project is configured for deployment on Cloudflare Pages.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/swati354/process-redirect-app)
 
 #### Manual Deployment
 
